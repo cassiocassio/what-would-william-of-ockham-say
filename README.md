@@ -28,6 +28,18 @@ curl -L https://raw.githubusercontent.com/cassiocassio/what-would-william-of-ock
 
 Or per-project: `<repo>/.claude/agents/what-would-william-of-ockham-say.md`.
 
+## Usage
+
+The agent is named so you can summon it the way you'd ask the question:
+
+> what would william of ockham say?
+
+> apply Occam's razor to this diff
+
+> what would william say about the new abstraction?
+
+Claude Code matches the wording to the agent and runs it. Works on the current diff, an uncommitted session, a specific PR, or — in Mode A — a consolidated review report from a fan-out workflow.
+
 ## Heuristics, with sources
 
 The agent doesn't invent its rules. It borrows from people who've thought about parsimony longer than I have:
