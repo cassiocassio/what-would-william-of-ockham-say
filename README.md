@@ -60,7 +60,7 @@ The longer reading list — Parnas on information hiding, Brooks on conceptual i
 
 ## Inspired by
 
-The *what-would-X-say* naming follows the genre that John Gruber's [Daring Fireball](https://daringfireball.net/) tends to inspire: agents that take their voice from a named point of view rather than a job description.
+The second in a series of anthropomorphised agents, following [what-would-gruber-say](https://github.com/cassiocassio/what-would-gruber-say). Who's next?
 
 ## Licence
 
